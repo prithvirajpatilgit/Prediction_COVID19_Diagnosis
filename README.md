@@ -33,6 +33,5 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 ## Linkeddln Post link :-
 
 ## Acknowledgements :-
-1.	The Dataset provided by Odinschool Institute and is used for this project.
-2.	Special thanks to the contributors and developers of Excel and google colab and also related tools for enabling powerful data analysis and reporting capabilities.
+1.	Special thanks to the contributors and developers of Excel and google colab and also related tools for enabling powerful data analysis and reporting capabilities.
 
