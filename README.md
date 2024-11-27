@@ -1,7 +1,6 @@
 # -Machine-Learning-Based-Prediction-of-COVID-19-Diagnosis-Using-Symptom-Data-
 
-![Covid-19 Thumbnail](https://github.com/RavinaKarnik/-Machine-Learning-Based-Prediction-of-COVID-19-Diagnosis-Using-Symptom-Data-/assets/130289037/46bcaa69-6d0a-4675-a7e8-f77991f83c1b)
-
+![covid_dia](https://github.com/user-attachments/assets/ba768336-8ab3-4f31-bc47-0d9527bfb558)
 
 ### Aiming for a rapid and accurate diagnosis of COVID-19, this project utilizes effective screening models to reduce the burden on healthcare systems. The dataset, obtained from the 'ABC' government website, comprises 2,78,848 individuals who underwent the RT-PCR test. The dataset includes key features suspected to influence COVID-19 outcomes. The dataset is divided into training, validation, and test sets, with a detailed breakdown of features.
 
@@ -21,7 +20,7 @@
 ## Dataset: corona_tested_006
 
 ## Usage :-
-1.	Clone the repository: Git clone :- https://github.com/RavinaKarnik/-Machine-Learning-Based-Prediction-of-COVID-19-Diagnosis-Using-Symptom-Data-
+1.	Clone the repository: Git clone :- https://github.com/prithvirajpatilgit/Prediction_COVID19_Diagnosis
 2.	Open the Files which is our dataset.
 3.	Navigate to the respective reports to access the analysis and insights using Python Pandas and Numpy and for data visualization i am using Matplotlib and           seaborn.
 4.	Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
